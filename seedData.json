@@ -1,19 +1,33 @@
-[
-    {
-    "id": 1,
-    "language": "Python",
-    "code": "print('Hello, World!')"
-  },
-  {
-    "id": 2,
-    "language": "Python",
-    "code": "def add(a, b):\n    return a + b"
-  },
-  {
-    "id": 3,
-    "language": "Python",
-    "code": "class Circle:\n    def __init__(self, radius):\n        self.radius = radius\n\n    def area(self):\n        return 3.14 * self.radius ** 2"
+{
+    "snippets": [
+      {
+        "id": 1,
+        "language": "Python",
+        "code": "print('Hello, World!')"
+      },
+      {
+        "id": 2,
+        "language": "Python",
+        "code": "def add(a, b):\n    return a + b"
+      },
+      {
+        "id": 3,
+        "language": "Python",
+        "code": "class Circle:\n    def __init__(self, radius):\n        self.radius = radius\n\n    def area(self):\n        return 3.14 * self.radius ** 2"
+      }
+    ],
+    "users": [
+      {
+        "email": "user@example.com",
+        "password": "hashedpassword1"
+      },
+      {
+        "email": "admin@example.com",
+        "password": "hashedpassword2"
+      }
+    ]
   }
+  
 
-]
+
 
